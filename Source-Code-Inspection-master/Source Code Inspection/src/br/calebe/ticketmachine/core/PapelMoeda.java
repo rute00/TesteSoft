@@ -1,3 +1,5 @@
+//ATIVIDADE INSPEÇÃO DE CÓDIGO  - Aluna: Rute TIA: 41923111
+
 package br.calebe.ticketmachine.core;
 
 
