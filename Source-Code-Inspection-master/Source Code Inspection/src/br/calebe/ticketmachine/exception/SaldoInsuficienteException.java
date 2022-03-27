@@ -1,4 +1,4 @@
-//ATIVIDADE INSPEÇÃO DE CÓDIGO
+//ATIVIDADE INSPEÇÃO DE CÓDIGO  - Aluna: Rute TIA: 41923111
 
 package br.calebe.ticketmachine.exception;
 
